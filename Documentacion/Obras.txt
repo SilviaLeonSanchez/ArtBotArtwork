@@ -1,0 +1,174 @@
+artwork_id,artwork_name,author_name
+F001,Candás,Antonio Rodriguez Garcia
+F002,Fábrica Albo,Antonio Rodriguez Garcia
+F003,Fábrica Albo,Antonio Rodriguez Garcia
+F004,Paisaje de pueblo,Antonio Rodriguez Garcia
+F005,Puerto de Candás,Antonio Rodriguez Garcia
+F006,Villa Angelina,Antonio Rodriguez Garcia
+F010,Anuncio para conservas Albo,Antonio Rodriguez Garcia
+F031,Iglesia de Albandi,Antonio Rodriguez Garcia
+F033,Paisaje de Candás,Antonio Rodriguez Garcia
+F034,Paisaje con hórreo,Antonio Rodriguez Garcia
+F035,Santolaya (Candás),Antonio Rodriguez Garcia
+F036,Paisaje de pueblo,Antonio Rodriguez Garcia
+F037,Iglesia de Logrezana,Antonio Rodriguez Garcia
+F038,Iglesia de Albandi,Antonio Rodriguez Garcia
+F039,Paisaje del Regueral,Antonio Rodriguez Garcia
+F040,Ermita de San Antonio (Candás),Antonio Rodriguez Garcia
+F041,Capilla del Carmen (Luanco),Antonio Rodriguez Garcia
+F042,Paseo marítimo Candás,Antonio Rodriguez Garcia
+F043,Candás,Antonio Rodriguez Garcia
+F044,Ermita de San Roque (Candás),Antonio Rodriguez Garcia
+F045,Muro,Antonio Soriano
+F046,Hacia el mar,Covadonga Valdés Moré
+F058,Candás,Antonio Rodriguez Garcia
+F060,Muelle de Candás,Antonio Rodriguez Garcia
+F061,Iglesia de Piedeloro,Antonio Rodriguez Garcia
+F062,Iglesia,Antonio Rodriguez Garcia
+F066,Ascensión,Antonio Rodriguez Garcia
+F072,Niño en una silla,Antonio Rodriguez Garcia
+F073,Santolaya (Candás),Antonio Rodriguez Garcia
+F074,Abside,Antonio Rodriguez Garcia
+F075,Candás,Antonio Rodriguez Garcia
+F076,Perán,Antonio Rodriguez Garcia
+F078,Retrato de Lola,Antonio Rodriguez Garcia
+F079,Ermita de San Roque,Antonio Rodriguez Garcia
+F080,Niña leyendo,Antonio Rodriguez Garcia
+F081,Retrato de Quirina,Antonio Rodriguez Garcia
+F082,Pintor sobre rocas,Antonio Rodriguez Garcia
+F083,Hórreo y casa de Fuxa (Candás),Antonio Rodriguez Garcia
+F084,Paisaje de pueblo,Antonio Rodriguez Garcia
+F086,Maternidad y aldeana,Antonio Rodriguez Garcia
+F089,Vendedor de periódicos,Antonio Rodriguez Garcia
+F096,Retrato de Concha,Antonio Rodriguez Garcia
+F099,Retrato de María Prendes,Antonio Rodriguez Garcia
+F100,Iglesia,Antonio Rodriguez Garcia
+F141,Paisaje,Antonio Rodriguez Garcia
+F145,Retrato de Evaristo Rodriguez,Antonio Rodriguez Garcia
+F146,Retrato de Puro,Antonio Rodriguez Garcia
+F147,Retrato de Juaco Tasita,Antonio Rodriguez Garcia
+F148,Retrato de El Chinto,Antonio Rodriguez Garcia
+F149,Retrato de Segismundo Garcia,Antonio Rodriguez Garcia
+F150,Retrato de Jesús García,Antonio Rodriguez Garcia
+F151,Retrato de Carlos Prendes,Antonio Rodriguez Garcia
+F152,Retrato de Ramón Castro,Antonio Rodriguez Garcia
+F153,Retrato de Constante Gonzalez,Antonio Rodriguez Garcia
+F154,Retrato de Jesús García Prendes,Antonio Rodriguez Garcia
+F155,Retrato de Raimundo González,Antonio Rodriguez Garcia
+F156,Retrato de Braulio Braña,Antonio Rodriguez Garcia
+F157,Retrato de Jesús Aja,Antonio Rodriguez Garcia
+F158,Retrato de Alvaro Rodriguez,Antonio Rodriguez Garcia
+F159,Retrato de José Gonzalez,Antonio Rodriguez Garcia
+F160,Retrato de Victorio Rodriguez Garcia,Antonio Rodriguez Garcia
+F165,Retrato de Padre Domitilio,Antonio Rodriguez Garcia
+F169,Paisaje de Candás,Antonio Rodriguez Garcia
+F170,Eugenia de Montijo,Antonio Rodriguez Garcia
+F171,Retrato de Príncipe Luis Napoleón,Antonio Rodriguez Garcia
+F172,Caricatura de José Francés,Antonio Rodriguez Garcia
+F173,Retrato de Concha,Antonio Rodriguez Garcia
+F174,Retrato de la madre del artista,Antonio Rodriguez Garcia
+F175,Retrato de Benita,Antonio Rodriguez Garcia
+F176,Retrato de Josefa,Antonio Rodriguez Garcia
+F200,Boceto monumento Hombre Bueno,Antonio Rodriguez Garcia
+F204,Niña cosiendo,Antonio Rodriguez Garcia
+F246,Retrato de hombre,Antonio Rodriguez Garcia
+F248,Barcas pesqueras,Antonio Rodriguez Garcia
+F249,Capilla de San Roque,Antonio Rodriguez Garcia
+F250,Panera de Carretilla,Antonio Rodriguez Garcia
+F251,Candás,Antonio Rodriguez Garcia
+F252,Retrato de Goya,Antonio Rodriguez Garcia
+F253,La promesa,Antonio Rodriguez Garcia
+F254,Ruta pintoresca La Formiga,Antonio Rodriguez Garcia
+F255,Gallega,Antonio Rodriguez Garcia
+F256,Mi hermana Concha,Antonio Rodriguez Garcia
+F257,Luanco,Antonio Rodriguez Garcia
+F258,Alfonso Albo,Antonio Rodriguez Garcia
+F259,Torrexón de Illavio (Carreño),Antonio Rodriguez Garcia
+F260,Graciela con mantilla,Antonio Rodriguez Garcia
+F264,Retrato de Concha,Antonio Rodriguez Garcia
+F265,Playa de la Arena,Antonio Rodriguez Garcia
+F266,Vistas de San Antonio,Antonio Rodriguez Garcia
+F276,Colegiala,Antonio Rodriguez Garcia
+F277,Al Hombre Bueno,Antonio Rodriguez Garcia
+F278,Marinera,Antonio Rodriguez Garcia
+F279,Maruja,Antonio Rodriguez Garcia
+F280,Mi Güela,Antonio Rodriguez Garcia
+F281,Rapacina,Antonio Rodriguez Garcia
+F302,Retrato de mujer,Antonio Rodriguez Garcia
+F306,Cabeza,Antonio Rodriguez Garcia
+F309,Concha pensando,Antonio Rodriguez Garcia
+F311,Maruxa,Antonio Rodriguez Garcia
+F312,Jesús Aja,Antonio Rodriguez Garcia
+F313,Maria Jesús Aja,Antonio Rodriguez Garcia
+F315,Maruja,Antonio Rodriguez Garcia
+F316,La Señá Isabel,Antonio Rodriguez Garcia
+F317,Fin de la romería,Antonio Rodriguez Garcia
+F318,Arrapiezo dormido,Antonio Rodriguez Garcia
+F319,Oscarín,Antonio Rodriguez Garcia
+F320,Isidorina,Antonio Rodriguez Garcia
+F322,Diana Cazadora,Antonio Rodriguez Garcia
+F323,Cuca Aja,Antonio Rodriguez Garcia
+F325,Lola,Antonio Rodriguez Garcia
+F326,Primavera,Antonio Rodriguez Garcia
+F327,Asturiana,Antonio Rodriguez Garcia
+F328,Niña del gato,Antonio Rodriguez Garcia
+F329,Pensativa,Antonio Rodriguez Garcia
+F330,Mari,Antonio Rodriguez Garcia
+F331,Retrato de Goya,Antonio Rodriguez Garcia
+F332,La milagrosa,Antonio Rodriguez Garcia
+F333,Retrato de Alfonso Albo,Antonio Rodriguez Garcia
+F336,Evaristo Valle,Antonio Rodriguez Garcia
+F337,Oscar desnudo,Antonio Rodriguez Garcia
+F338,Retrato de Carlos Albo,Antonio Rodriguez Garcia
+F340,Retrato de José Gonzalez Longoria,Antonio Rodriguez Garcia
+F342,Manolo,Antonio Rodriguez Garcia
+F343,Emilia de Miguel,Antonio Rodriguez Garcia
+F347,Árbol,Tadanori Yamaguchi
+F348,Lluvia,Tadanori Yamaguchi
+F349,Montaña,Tadanori Yamaguchi
+F350,Viento,Tadanori Yamaguchi
+F351,Mar,Tadanori Yamaguchi
+F352,Al Hombre Bueno,Antonio Rodriguez Garcia
+F356,Sin título,Amancio Gonzalez
+F357,Little Box,Bodo Rau
+F360,Blacanal Serviados,Pablo Maojo
+F362,El Chato,Javier del Rio
+F363,Cubo vacío,Amador Rodriguez
+F399,Arca,Antonio Rodriguez Garcia
+F402,Arqueta,Antonio Rodriguez Garcia
+F404,Arqueta,Antonio Rodriguez Garcia
+F405,Mujer con pez,Javier del Rio Busto
+F407,Músico,Carlos Eliseo
+F408,Sin título,Pablo Maojo
+F409,Sin título,Pablo Maojo
+F410,Sin título,Sylvain Marc
+F411,Hacia-aicah,Adolfo Pico
+F422,Sin título,Xana Kahle
+F423,Arquitectura roja,Jesús Castañón
+F443,Oda a los marineros,Enrique Tirador
+F444,Muro,José de la Riera
+F445,El hombre del siglo XXI,Avelino Sala
+F446,Paisaje nocturno,Josefina Junco
+F447,Obelisco,Cesar Ripoll Dono
+F448,Madre jugando con niño,Juan Cristóbal
+F449,Del limo,Alicia Jiménez
+F450,El cabañu,Pablo Armesto
+F451,Naturalezas construidas,Teresa Monforte
+F454,La serenissima en verde,Carlota Álvarez Bernardo
+F455,Mujer con pez,Javier del Rio
+F456,Benavente,Antonio Rodriguez Garcia
+F457,Pasando hojas,Antonio Rodriguez Garcia
+F458,Grupa valenciana,Antonio Rodriguez Garcia
+F459,Trinidad Cortina Caballero,Antonio Rodriguez Garcia
+F460,Cómoda,Antonio Rodriguez Garcia
+F461,José Fernandez,Antonio Rodriguez Garcia
+F462,Rapacina,Antonio Rodriguez Garcia
+F463,Antroxu,Antonio Rodriguez Garcia
+F464,La guaxa,Antonio Rodriguez Garcia
+F465,Fin de la romería,Antonio Rodriguez Garcia
+F466,Antón en su estudio,Antonio Rodriguez Garcia
+F467,Construcción ,Joaquín Rubio Camín
+F468,Estructura extensible,Alejandro Corominas
+F469,Encuentro en tres,Joaquín Rubio Camín
+F470,Damocles,Jose Luis Sánchez
+F471,Explosión de vacío,Jose Ángel Merino

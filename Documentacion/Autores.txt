@@ -1,0 +1,32 @@
+author_id,author_name
+A001,Antonio Rodriguez Garcia
+A002,Antonio Soriano
+A003,Covadonga Valdés Moré
+A004,Antonio Sobrino
+A005,Tadanori Yamaguchi
+A006,Amancio Gonzalez
+A007,Bodo Rau
+A008,Pablo Maojo
+A009,Javier del Rio
+A010,Amador Rodriguez
+A011,Javier del Rio Busto
+A012,Carlos Eliseo
+A013,Sylvain Marc
+A014,Adolfo Pico
+A015,Xana Kahle
+A016,Jesús Castañón
+A017,Enrique Tirador
+A018,José de la Riera
+A019,Avelino Sala
+A020,Josefina Junco
+A021,Cesar Ripoll Dono
+A022,Juan Cristóbal
+A023,Alicia Jiménez
+A024,Pablo Armesto
+A025,Teresa Monforte
+A026,Carlota Álvarez Bernardo
+A027,Joaquín Rubio Camín
+A028,Alejandro Corominas
+A029,Jose Luis Sánchez
+A030,Mercedes Cano
+A031,Jose Ángel Merino

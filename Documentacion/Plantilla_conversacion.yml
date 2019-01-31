@@ -1,0 +1,36 @@
+## INCLUIR LINEAS VACIAS NI ESPACIOS EXTRA EN EL ARCHIVO
+## NO INCLUIR LAS LINEAS COMENTADAS COMO ESTA
+##
+## CATEGORIAS
+## En categories incluir las categorias que definen la tematica de la conversación
+## Una categoria por linea, despues de un guion y un espacio
+##
+## CONVERSACION
+## PREGUNTAS
+## Incluir la pregunta en una linea despues de guion, espacio, guion, espacio.
+##
+## RESPUESTAS
+## Despues de cada pregunta indicar la respuesta tambien en una sola linea despues de dos espacios, guion y espacio.
+## 
+## No incluir comillas en el archivo, ni guiones (salvo los requeridos por el formato), ni caracteres especiales.
+##
+categories:
+- english
+- Anton Museum
+conversations:
+- - Who was Antonio?
+  - He was an Asturian sculptor and painter
+- - When was he born?
+  - He was born on February 16, 1911
+- - Where was he born?
+  - He was born in Candas, Asturias (Spain)
+- - When did he die?
+  - He died in May 1937
+- - Where did he die?
+  - He died on Murias de Candamo
+- - How was his childhood?
+  - He was born in a humble family of Candas. He always liked draws and molds. He grew up in an unfavorable environment but he developed his talent in a self-taught way.
+- - How was his life?
+  - He was born in a humble family of Candas. He always liked draws and molds. He grew up in an unfavorable environment but he developed his talent in a self-taught way.
+- - Where did he study?
+  - Anton attends as a free student of the School of Fine Arts of San Fernando, the Circle of Fine Arts of Madrid and the sculpture classes of Juan Cristóbal.
